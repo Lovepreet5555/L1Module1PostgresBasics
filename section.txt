@@ -1,0 +1,14 @@
+Chemical Engineering	310	1	Edison, L.
+Civil Engineering	365	2	Randolph, B.
+Civil Engineering	375	3	Brown, S.
+Civil Engineering	561	4	Randolph, B.
+Computer Sciences	302	5	Jones, J.
+Computer Sciences	302	6	Smith, S.
+Computer Sciences	467	7	Jones, J.
+Computer Sciences	701	8	Clark, E.
+Computer Sciences	726	9	Brian, C.
+Industrial Engineering	514	10	Walter, A.
+Mathematics	461	11	Robinson, T.
+Mathematics	462	12	Robinson, T.
+Sanitary Engineering	563	13	Bucket, T.
+Sanitary Engineering	315	14	Bucket, T.
